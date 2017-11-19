@@ -1,0 +1,2 @@
+﻿  my_queue_syscall.c
+c:\users\joonmyung\desktop\workspace\visual studio workspace\os_first_term\os_first_term\my_queue_syscall.c(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'linux/kernel.h': No such file or directory
