@@ -11,7 +11,7 @@ my_queue_syscall.o
 ==> ~/linux-3.14.63/kernel/
 
 syscall_64.tbl
-==> ~/linux-3.14.63/arch/x86/syscalls/
+==> ~/linux-3.14.63/arch/x86/syscall	[3-1][Operation_System][FirstTerm][프로젝트파일]s/
 
 syscalls.h
 ==> ~/linux-3.14.63/include/linux/
