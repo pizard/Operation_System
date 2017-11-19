@@ -1,0 +1,128 @@
+							Virtual	PhysicalShared		
+PID:	4704	name:	ramspeed	virtual:	4388	356	276	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	4388	356	276	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	4388	356	276	Wss:	
+PID:	4704	name:	ramspeed	virtual:	4388	356	276	Wss:	
+PID:	4704	name:	ramspeed	virtual:	4388	612	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	4388	612	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	4388	612	504	Wss:	
+PID:	4704	name:	ramspeed	virtual:	4388	612	504	Wss:	
+PID:	4704	name:	ramspeed	virtual:	4648	876	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	4904	988	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	5416	1516	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	6440	2572	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	6440	2572	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	8488	4616	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	8488	4616	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	8488	4616	504	Wss:	
+PID:	4704	name:	ramspeed	virtual:	12584	8704	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	12584	8704	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	20776	16880	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	20776	16880	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	20776	16880	504	Wss:	
+PID:	4704	name:	ramspeed	virtual:	37160	33496	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	37160	33496	504	Wss:	*
+PID:	4704	name:	ramspeed	virtual:	37160	33496	504	Wss:	
+PID:	4784	name:	ramspeed	virtual:	4388	356	276	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	4388	612	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	4388	612	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	4648	876	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	5416	1524	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	6440	2580	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	8488	4624	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	8488	4624	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	12584	8712	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	20776	16888	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	20776	16888	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	37160	33504	512	Wss:	*
+PID:	4784	name:	ramspeed	virtual:	37160	33504	512	Wss:	*
+PID:	4794	name:	ramspeed	virtual:	69800	65892	464	Wss:	*
+PID:	4794	name:	ramspeed	virtual:	69800	65892	464	Wss:	*
+PID:	4794	name:	ramspeed	virtual:	69800	65892	464	Wss:	
+PID:	4794	name:	ramspeed	virtual:	69800	65892	464	Wss:	
+PID:	4794	name:	ramspeed	virtual:	69800	65892	464	Wss:	
+PID:	4794	name:	ramspeed	virtual:	69800	66096	492	Wss:	*
+PID:	4794	name:	ramspeed	virtual:	69800	66096	492	Wss:	*
+PID:	4794	name:	ramspeed	virtual:	69800	66096	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	69800	66096	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	69800	66096	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	59772	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	*
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	*
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4794	name:	ramspeed	virtual:	102572	98632	492	Wss:	
+PID:	4795	name:	ramspeed	virtual:	4388	356	276	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	4388	356	276	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	4388	356	276	Wss:	
+PID:	4795	name:	ramspeed	virtual:	4388	612	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	4388	612	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	4388	612	512	Wss:	
+PID:	4795	name:	ramspeed	virtual:	4388	612	512	Wss:	
+PID:	4795	name:	ramspeed	virtual:	4388	612	512	Wss:	
+PID:	4795	name:	ramspeed	virtual:	4648	876	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	4904	996	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	4904	996	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	5416	1524	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	6440	2580	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	8488	4624	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	8488	4624	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	8488	4624	512	Wss:	
+PID:	4795	name:	ramspeed	virtual:	12584	8712	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	12584	8712	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	12584	8712	512	Wss:	
+PID:	4795	name:	ramspeed	virtual:	20776	16888	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	20776	16888	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	20776	16888	512	Wss:	
+PID:	4795	name:	ramspeed	virtual:	20776	16888	512	Wss:	
+PID:	4795	name:	ramspeed	virtual:	37160	33504	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	37160	33504	512	Wss:	*
+PID:	4795	name:	ramspeed	virtual:	37160	33504	512	Wss:	
+PID:	4831	name:	ramspeed	virtual:	4388	356	276	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	4388	356	276	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	4388	612	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	4388	612	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	4388	612	512	Wss:	
+PID:	4831	name:	ramspeed	virtual:	4648	876	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	4904	996	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	5416	1524	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	6440	2580	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	8488	4624	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	12584	8712	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	12584	8712	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	20776	16888	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	20776	16888	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	37160	33504	512	Wss:	*
+PID:	4831	name:	ramspeed	virtual:	37160	33504	512	Wss:	*
+PID:	4833	name:	ramspeed	virtual:	69800	65892	464	Wss:	*
+PID:	4833	name:	ramspeed	virtual:	69800	65892	464	Wss:	*
+PID:	4833	name:	ramspeed	virtual:	69800	65892	464	Wss:	
+PID:	4833	name:	ramspeed	virtual:	69800	65892	464	Wss:	
+PID:	4833	name:	ramspeed	virtual:	69800	65892	464	Wss:	
+PID:	4833	name:	ramspeed	virtual:	69800	66096	492	Wss:	*
+PID:	4833	name:	ramspeed	virtual:	69800	66096	492	Wss:	*
+PID:	4833	name:	ramspeed	virtual:	69800	66096	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	69800	66096	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	69800	66096	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	*
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	*
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	
+PID:	4833	name:	ramspeed	virtual:	102572	98700	492	Wss:	

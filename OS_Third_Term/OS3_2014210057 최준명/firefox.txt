@@ -1,0 +1,123 @@
+						Virtual	PhysicalShared		
+PID:	4706	name:	firefox	virtual:	449976	44560	26596	Wss:	*
+PID:	4706	name:	firefox	virtual:	561608	68184	31992	Wss:	*
+PID:	4706	name:	firefox	virtual:	608952	86620	35644	Wss:	*
+PID:	4706	name:	firefox	virtual:	664220	105032	38708	Wss:	*
+PID:	4706	name:	firefox	virtual:	804032	120072	42268	Wss:	*
+PID:	4706	name:	firefox	virtual:	736460	126512	44852	Wss:	*
+PID:	4706	name:	firefox	virtual:	759572	141536	46560	Wss:	*
+PID:	4706	name:	firefox	virtual:	787680	144992	47596	Wss:	*
+PID:	4706	name:	firefox	virtual:	810284	153452	47860	Wss:	*
+PID:	4706	name:	firefox	virtual:	819216	161952	48388	Wss:	*
+PID:	4706	name:	firefox	virtual:	842184	167524	48808	Wss:	*
+PID:	4706	name:	firefox	virtual:	842184	167524	48808	Wss:	*
+PID:	4706	name:	firefox	virtual:	842184	167524	48808	Wss:	
+PID:	4706	name:	firefox	virtual:	842184	167524	48808	Wss:	
+PID:	4706	name:	firefox	virtual:	842184	167524	48808	Wss:	
+PID:	4706	name:	firefox	virtual:	842184	167788	48824	Wss:	*
+PID:	4706	name:	firefox	virtual:	852428	170732	49596	Wss:	*
+PID:	4706	name:	firefox	virtual:	851468	165420	49840	Wss:	*
+PID:	4706	name:	firefox	virtual:	853772	167892	50760	Wss:	*
+PID:	4706	name:	firefox	virtual:	853772	167892	50760	Wss:	
+PID:	4706	name:	firefox	virtual:	853900	168420	50868	Wss:	
+PID:	4706	name:	firefox	virtual:	853900	168420	50868	Wss:	
+PID:	4706	name:	firefox	virtual:	853964	168948	50988	Wss:	
+PID:	4706	name:	firefox	virtual:	878968	173088	51200	Wss:	*
+PID:	4706	name:	firefox	virtual:	879096	174456	51240	Wss:	*
+PID:	4706	name:	firefox	virtual:	888288	176072	52168	Wss:	*
+PID:	4706	name:	firefox	virtual:	888288	176336	52188	Wss:	*
+PID:	4706	name:	firefox	virtual:	888320	176376	52216	Wss:	*
+PID:	4706	name:	firefox	virtual:	890368	178700	52416	Wss:	*
+PID:	4706	name:	firefox	virtual:	965412	187524	55680	Wss:	*
+PID:	4706	name:	firefox	virtual:	965604	186576	55912	Wss:	*
+PID:	4706	name:	firefox	virtual:	976100	199108	56180	Wss:	*
+PID:	4706	name:	firefox	virtual:	977316	196496	56392	Wss:	*
+PID:	4706	name:	firefox	virtual:	982440	199460	56564	Wss:	*
+PID:	4706	name:	firefox	virtual:	982440	199460	56564	Wss:	
+PID:	4706	name:	firefox	virtual:	982440	197304	56564	Wss:	
+PID:	4706	name:	firefox	virtual:	982440	197780	56564	Wss:	
+PID:	4706	name:	firefox	virtual:	982696	201960	56672	Wss:	*
+PID:	4706	name:	firefox	virtual:	981740	201600	56672	Wss:	*
+PID:	4706	name:	firefox	virtual:	981164	201016	56672	Wss:	*
+PID:	4706	name:	firefox	virtual:	981164	201016	56672	Wss:	
+PID:	4706	name:	firefox	virtual:	981164	201016	56672	Wss:	
+PID:	4706	name:	firefox	virtual:	981164	201016	56672	Wss:	
+PID:	4706	name:	firefox	virtual:	981228	201016	56672	Wss:	
+PID:	4706	name:	firefox	virtual:	981228	200592	56672	Wss:	
+PID:	4706	name:	firefox	virtual:	981292	200592	56672	Wss:	
+PID:	4706	name:	firefox	virtual:	981292	200592	56672	Wss:	
+PID:	4706	name:	firefox	virtual:	981228	198748	56688	Wss:	
+PID:	4706	name:	firefox	virtual:	981292	198780	56688	Wss:	
+PID:	4706	name:	firefox	virtual:	981292	199020	56688	Wss:	
+PID:	4706	name:	firefox	virtual:	980588	198892	56688	Wss:	
+PID:	4706	name:	firefox	virtual:	980588	196872	56692	Wss:	
+PID:	4706	name:	firefox	virtual:	980588	196872	56692	Wss:	
+PID:	4706	name:	firefox	virtual:	980588	196872	56692	Wss:	
+PID:	4706	name:	firefox	virtual:	980652	196872	56692	Wss:	
+PID:	4706	name:	firefox	virtual:	980652	196872	56692	Wss:	
+PID:	4706	name:	firefox	virtual:	980652	196608	56708	Wss:	
+PID:	4706	name:	firefox	virtual:	980716	196868	56720	Wss:	
+PID:	4706	name:	firefox	virtual:	980716	196868	56720	Wss:	
+PID:	4706	name:	firefox	virtual:	980652	196868	56720	Wss:	
+PID:	4706	name:	firefox	virtual:	980652	196868	56720	Wss:	
+PID:	4706	name:	firefox	virtual:	980780	197132	56728	Wss:	
+PID:	4706	name:	firefox	virtual:	989168	193008	56796	Wss:	
+PID:	4706	name:	firefox	virtual:	994032	195604	56984	Wss:	
+PID:	4706	name:	firefox	virtual:	992432	200356	56116	Wss:	
+PID:	4706	name:	firefox	virtual:	991568	202020	56480	Wss:	
+PID:	4706	name:	firefox	virtual:	991568	202548	56776	Wss:	*
+PID:	4706	name:	firefox	virtual:	991568	202960	56800	Wss:	*
+PID:	4706	name:	firefox	virtual:	991632	203052	56832	Wss:	*
+PID:	4706	name:	firefox	virtual:	991632	203060	56832	Wss:	*
+PID:	4706	name:	firefox	virtual:	991632	200532	56840	Wss:	*
+PID:	4706	name:	firefox	virtual:	991696	200580	56840	Wss:	*
+PID:	4706	name:	firefox	virtual:	990608	201044	56848	Wss:	
+PID:	4706	name:	firefox	virtual:	990160	199476	56852	Wss:	
+PID:	4706	name:	firefox	virtual:	990160	199764	56852	Wss:	
+PID:	4706	name:	firefox	virtual:	990160	199764	56852	Wss:	
+PID:	4706	name:	firefox	virtual:	990160	200080	56860	Wss:	
+PID:	4706	name:	firefox	virtual:	990224	200184	56860	Wss:	
+PID:	4706	name:	firefox	virtual:	990352	200496	56880	Wss:	
+PID:	4706	name:	firefox	virtual:	990224	200456	56924	Wss:	
+PID:	4706	name:	firefox	virtual:	990352	201788	57092	Wss:	
+PID:	4706	name:	firefox	virtual:	990352	201788	57092	Wss:	*
+PID:	4706	name:	firefox	virtual:	990672	204932	57100	Wss:	*
+PID:	4706	name:	firefox	virtual:	994896	207000	57136	Wss:	*
+PID:	4706	name:	firefox	virtual:	995152	207788	57136	Wss:	*
+PID:	4706	name:	firefox	virtual:	1000204	211648	58088	Wss:	*
+PID:	4706	name:	firefox	virtual:	1006476	217076	58152	Wss:	*
+PID:	4706	name:	firefox	virtual:	1007564	217872	58156	Wss:	*
+PID:	4706	name:	firefox	virtual:	1007564	218052	58156	Wss:	*
+PID:	4706	name:	firefox	virtual:	1008716	219000	58168	Wss:	*
+PID:	4706	name:	firefox	virtual:	1008716	219000	58168	Wss:	*
+PID:	4706	name:	firefox	virtual:	1008716	219260	58168	Wss:	*
+PID:	4706	name:	firefox	virtual:	1012152	219676	58176	Wss:	*
+PID:	4706	name:	firefox	virtual:	1012152	219676	58176	Wss:	*
+PID:	4706	name:	firefox	virtual:	1012152	219676	58176	Wss:	
+PID:	4706	name:	firefox	virtual:	1012152	219676	58176	Wss:	
+PID:	4706	name:	firefox	virtual:	1010680	216508	58176	Wss:	*
+PID:	4706	name:	firefox	virtual:	1010680	216508	58176	Wss:	*
+PID:	4706	name:	firefox	virtual:	1010616	216572	58176	Wss:	
+PID:	4706	name:	firefox	virtual:	1011640	217104	58196	Wss:	
+PID:	4706	name:	firefox	virtual:	1013752	215500	58204	Wss:	
+PID:	4706	name:	firefox	virtual:	1013752	215952	58208	Wss:	
+PID:	4706	name:	firefox	virtual:	1013816	215164	58212	Wss:	
+PID:	4706	name:	firefox	virtual:	1013816	215300	58212	Wss:	
+PID:	4706	name:	firefox	virtual:	1013816	215500	58212	Wss:	
+PID:	4706	name:	firefox	virtual:	1013752	215576	58212	Wss:	
+PID:	4706	name:	firefox	virtual:	1013880	215680	58212	Wss:	
+PID:	4706	name:	firefox	virtual:	1013496	214288	58212	Wss:	
+PID:	4706	name:	firefox	virtual:	1013496	214288	58212	Wss:	
+PID:	4706	name:	firefox	virtual:	1013260	218588	58100	Wss:	
+PID:	4706	name:	firefox	virtual:	1013260	218928	58100	Wss:	
+PID:	4706	name:	firefox	virtual:	1013324	220820	58204	Wss:	*
+PID:	4706	name:	firefox	virtual:	1014540	224200	58204	Wss:	*
+PID:	4706	name:	firefox	virtual:	1015692	223652	58244	Wss:	*
+PID:	4706	name:	firefox	virtual:	1015820	223908	58260	Wss:	*
+PID:	4706	name:	firefox	virtual:	1015820	222512	58268	Wss:	
+PID:	4706	name:	firefox	virtual:	1015884	224072	58268	Wss:	
+PID:	4706	name:	firefox	virtual:	1018120	227892	57716	Wss:	*
+PID:	4706	name:	firefox	virtual:	1022408	223456	57980	Wss:	*
+PID:	4706	name:	firefox	virtual:	1022472	227044	57980	Wss:	*
+PID:	4706	name:	firefox	virtual:	1022408	228012	57980	Wss:	
+PID:	4706	name:	firefox	virtual:	1022408	226908	57996	Wss:	
