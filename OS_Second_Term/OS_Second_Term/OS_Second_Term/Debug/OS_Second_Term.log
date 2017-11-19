@@ -1,0 +1,11 @@
+﻿  syscall_slower.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. 'syscall_slower.c': No such file or directory
+  syscall_faster,slower.c
+c1 : fatal error C1083: 소스 파일을 열 수 없습니다. 'syscall_faster,slower.c': No such file or directory
+  benchmark_slower.c
+c:\users\joonmyung\desktop\workspace\visual studio workspace\operation_system\os_second_term\os_second_term\benchmark_slower.c(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'sys/sysinfo.h': No such file or directory
+  benchmark_normal.c
+c:\users\joonmyung\desktop\workspace\visual studio workspace\operation_system\os_second_term\os_second_term\benchmark_normal.c(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'sys/sysinfo.h': No such file or directory
+  benchmark_faster.c
+c:\users\joonmyung\desktop\workspace\visual studio workspace\operation_system\os_second_term\os_second_term\benchmark_faster.c(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'sys/sysinfo.h': No such file or directory
+  코드를 생성하고 있습니다...
